@@ -20,6 +20,8 @@
 * Графический редактор Gimp: [https://www.gimp.org/](https://www.gimp.org)
 * 3D редактор Blender: [https://www.blender.org/](https://www.blender.org)
 
+<hr>
+
 **Ещё репозитории автора:**
 
 **Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
