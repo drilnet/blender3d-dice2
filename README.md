@@ -11,7 +11,7 @@
 <br>
 **blend** файл находится в архиве **StDice2.7z.001** и **StDice2.7z.002**
 <br>
-Более подробно смотри: [Wiki](https://github.com/drilnet/blender3d-dice2/wiki)
+Более подробно о архиве смотри: [Wiki](https://github.com/drilnet/blender3d-dice2/wiki)
 
 <hr>
 
