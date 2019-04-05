@@ -67,7 +67,7 @@
        | Preview_2.png
        ---
 
-Файлы с расширением **7z.001** и **7z.002** можно распаковать с помощью архиватора **7-Zip**!
+Файлы с расширением **7z.001** и **7z.002** можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
 
 ![](https://github.com/drilnet/blender3d-dice2/blob/master/Preview_1.png)
 
