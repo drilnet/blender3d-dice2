@@ -77,7 +77,7 @@
 
 ![](https://github.com/drilnet/blender3d-dice2/blob/master/Preview_1.png)
 
-Украина. (**C**) Демидов С.В.
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
 
