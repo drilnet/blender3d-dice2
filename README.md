@@ -105,6 +105,8 @@
 <br>
 **Репозиторий:** [Вектор-06Ц. Конвертер графических файлов GRF в BMP](https://github.com/drilnet/vector-06c-grf2bmp)
 <br>
+**Репозиторий:** [Blender 3D. Флоппи диск 3.5"](https://github.com/drilnet/blender3d-floppy-disk-35)
+<br>
 **Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц](https://github.com/drilnet/vector-06c-color256)
 <br>
 <br>
