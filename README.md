@@ -124,6 +124,7 @@
 **Репозиторий:** [Электроника (всё в одном репозитории)](https://github.com/drilnet/electronics)
 
 &nbsp;&nbsp;&nbsp;&bull; [Ящик для экспонирования фоторезиста](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist)
+
 <hr>
 
 **Полезные ссылки:**
