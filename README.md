@@ -19,7 +19,7 @@
 
 **Внимание!**
 <br>
-**blend**-файл находится в архиве: [StDice2.7z.001](https://github.com/drilnet/blender3d-dice2/blob/master/StDice2.7z.001), **StDice2.7z.002**.
+**blend**-файл находится в архиве: [StDice2.7z.001](https://github.com/drilnet/blender3d-dice2/blob/master/StDice2.7z.001), [StDice2.7z.002](https://github.com/drilnet/blender3d-dice2/blob/master/StDice2.7z.002)
 <br>
 
 ### Содержимое архива.
