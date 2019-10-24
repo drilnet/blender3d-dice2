@@ -21,6 +21,7 @@
 <br>
 **blend**-файл находится в архиве: [StDice2.7z.001](https://github.com/drilnet/blender3d-dice2/blob/master/StDice2.7z.001), [StDice2.7z.002](https://github.com/drilnet/blender3d-dice2/blob/master/StDice2.7z.002)
 <br>
+Файлы с расширением **7z.001** и **7z.002** можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
 
 ### Содержимое архива.
 
@@ -78,8 +79,6 @@
        | Preview_1.png
        | Preview_2.png
        ---
-
-Файлы с расширением **7z.001** и **7z.002** можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
 
 ![](https://github.com/drilnet/blender3d-dice2/blob/master/Preview_1.png)
 
