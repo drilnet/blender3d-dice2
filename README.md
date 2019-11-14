@@ -132,6 +132,8 @@
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Ремонт компьютерных колонок Genius SP-G06](https://github.com/drilnet/electronics/tree/master/Speakers%20Genius%20SP-G06 "Что было и Что стало")
 
+**Репозиторий:** [Интеллект. Искусственный интеллект](https://github.com/drilnet/Intelligence "Intelligence. Artificial Intelligence")
+
 <hr>
 
 **Полезные ссылки:**
