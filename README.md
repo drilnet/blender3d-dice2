@@ -140,7 +140,7 @@
 
 [Правила оформления файла README.MD на GITHUB](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#SpecialSymbol "(C) Olga Vlasova")
 <br>
-[Создаем свой сайт на Github](https://www.youtube.com/watch?v=05nLdIVfSRU "Типичный Верстальщик * Анна Блок")
+[Создаем свой сайт на Github](https://www.youtube.com/watch?v=05nLdIVfSRU "Типичный Верстальщик &bull; Анна Блок")
 
 <hr>
 
